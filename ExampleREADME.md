@@ -6,13 +6,6 @@
 Check out the badges hosted by [shields.io](https://shields.io/).
 
 
-## Links
-
-Repository: <a href="https://github.com/rschm007/PWA_BudgetTracker">https://github.com/rschm007/PWA_BudgetTracker</a>
-
-Deployed App: <a href="https://fathomless-chamber-46101.herokuapp.com/">https://fathomless-chamber-46101.herokuapp.com/</a>
-
-
 ## Description
 
 This is a progressive web application that allows users to track their budgets. Users can add expenses and deposits via the dashboard buttons. This app functions offline and online. When the user enters a transaction while offline the transactions are stored in indexedDB and transferred to the MongoDB database when the user comes back online.
@@ -38,11 +31,10 @@ To install the required dependencies run npm install. This package assumes there
 
 To start the server run npm start, then type localhost:<port> in your browser.
 
-<img src="https://github.com/rschm007/PWA_BudgetTracker/blob/main/assets/demo_1.gif" alt="a gif of the PWA Budget Tracker app"></src>
 
 # Contribute
 
-If you would like to contribute please send me a DM.
+An example screenshot of the app is below
 
 
 # Tests
