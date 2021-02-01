@@ -36,7 +36,7 @@ To install the required dependencies run npm install. This package assumes there
 
 # Usage
 
-To start the server run npm start, then type localhost:<port> in your browser.
+To start the server run npm start, then type localhost:"yourPort" in your browser.
 
 <img src="https://github.com/rschm007/PWA_BudgetTracker/blob/main/assets/demo_1.gif" alt="a gif of the PWA Budget Tracker app"></src>
 
